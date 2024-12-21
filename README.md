@@ -33,7 +33,7 @@ Just A Fresher
 
 
 
-Check out more of my projects [here](https://github.com/your-username?tab=repositories).
+Check out more of my projects [here](https://github.com/NoviceProgrammer210/NoviceProgrammer210/).
 
 ---
 
