@@ -38,8 +38,7 @@ Check out more of my projects [here](https://github.com/NoviceProgrammer210?tab=
 ---
 
 ## 💬 Let's Connect  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-
+- 📧 Email: [thanushpais2021@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/JoystonThanushPais
+]
 ---
