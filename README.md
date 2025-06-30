@@ -16,7 +16,7 @@
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django" />
 </p>
 
 ### 🗃️ Databases
@@ -26,7 +26,7 @@
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux" />
 </p>
 
 ---
