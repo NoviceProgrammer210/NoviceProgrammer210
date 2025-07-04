@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there, I'm Joyston 👋</h1>
-<p align="center">🚀 Passionate Developer · Lifelong Learner · Curious Creator</p>
+<p align="center">🚀 BCA Graduate · Lifelong Learner</p>
 
 <p align="center">
   🌐 <a href="https://noviceprogrammer210.github.io/Portfolio/" target="_blank"><strong>View My Portfolio</strong></a>
