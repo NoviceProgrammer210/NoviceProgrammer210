@@ -34,18 +34,21 @@
 ## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoviceProgrammer210&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoviceProgrammer210&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoviceProgrammer210&show_icons=true&theme=onedark&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true
-" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NoviceProgrammer210&show_icons=true&theme=onedark&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoviceProgrammer210&layout=compact&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoviceProgrammer210&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoviceProgrammer210&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NoviceProgrammer210&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
 
 ---
 
